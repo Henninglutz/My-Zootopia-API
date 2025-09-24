@@ -1,0 +1,9 @@
+Check it out:
+
+(and be aware of all the hungry crocodiles)
+
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+import requests
+from environment import ANIMAL_API_URL, ANIMAL_API_KEY
